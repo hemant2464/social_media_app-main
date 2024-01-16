@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/_W3R2VwRyF4?feature=shared" target="_blank">
-     
-    </a>
+    
   <br />
 
   <div>
